@@ -1,0 +1,28 @@
+*{
+    background-color: aquamarine;
+}
+.left-aligned{
+    text-align: left;
+}
+.center-aligned{
+    text-align:center;
+}
+.right-aligned{
+    text-align: right;
+}
+.green-text{
+    color: rgb(10, 240, 10);
+}
+.tre{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.big-text{
+    text-transform: capitalize;
+}
+.arial{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button{
+    text-align: center;
+}
