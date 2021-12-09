@@ -1,0 +1,94 @@
+body{
+    background-color:#FFE4C4 ;
+}
+.card{
+    width: 300px;
+    height: 450px;
+    border: 2px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color:#D3D3D3 ;
+    float: left;
+    margin: 5px;
+}
+img{
+    width: 100%;
+    height: 30%;
+}
+.title{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    background-color:#6495ED;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+}
+.description{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 400;
+}
+
+}.box{
+    width: 300px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    float: right;
+    margin-top: 70px;
+    overflow: hidden;
+}
+.price{
+    color: green;
+    float: right;
+    width: 90px;
+    /* height: 600px; */
+    text-align: right;
+    font-weight: 900;
+    display: inline-block;
+    margin: 20px 20px 0 0;
+    font-size: 20px;
+    padding: 10px 10px 0 10px;
+   
+
+}
+.star{
+    padding: 10px;
+    float: left;
+}
+.star img{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+}
+.original-price{
+    margin: 10px 10px 10px 10px;
+    width: 60px;
+    height: 20px;
+    float: right;
+    text-decoration: line-through;
+}
+.buttons{
+    text-align: center;
+    float: left;
+    width: 100%;
+    
+}
+.buttons button{
+    width: 40%;
+    font: size 20px;
+    margin: 20px 10px;
+    border-radius: 5px;
+    padding: 5px 0;
+
+}
+.buttons button:hover{
+    cursor: pointer;
+}
+.buy{
+    background-color: green;
+}
+.cart{
+    background-color: darkorange;
+}
